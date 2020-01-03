@@ -1,6 +1,8 @@
-## Your Name
+## Arvind Chauhan
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I'm a front-end(Angular/React) expert that cares about the user experience. I’ve been developing and architecting web applications for over 10 years working in a wide variety of technologies for small businesses, large corporations, and out on my own doing freelance work. I’m passionate about coding and building rich, powerful apps using the latest technologies. I am an avid technical reader, and enjoy speaking regularly at developer meetups across the country. I consistently strive to improve my techniques and tool set to solve the real world problems. I believe performance is a feature and responsive UI is worth the extra work. I strive to be a top-tier developer and recognize this demands excellent communication skills, continuous learning, and natural curiosity.
+
+♦ So what makes me unique? ★ I write clean, dry, solid code that anyone can read using best practices. People I worked with know me as a hard worker. For example, a project I worked was nearing the deadline, but for reasons outside of our control, we were at least one month behind. I was able to bring our team together, and we were able to finish the fully tested final application two days before it was due. This helped our relation team close a bigger deal with the client, which I am now working.
 
 ## Skills
 
